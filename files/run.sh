@@ -9,7 +9,7 @@ fi
 
 # start php-fpm
 mkdir -p /DATA/logs/php-fpm
-php-fpm
+php-fpm7
 
 # start nginx
 mkdir -p /DATA/logs/nginx
